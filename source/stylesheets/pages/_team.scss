@@ -1,3 +1,8 @@
+
+body {
+  background-color: lightblue;
+}
+
 .img-circle {
   align: center;
   padding: 10px;
@@ -6,3 +11,12 @@
   height: 200px;
   width: 200px;
 }
+
+.team-organization {
+  text-align: center;
+}
+
+.team-organization li {
+  padding: 20px;
+}
+
